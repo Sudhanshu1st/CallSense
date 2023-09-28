@@ -1,8 +1,12 @@
-# Sentiment Analysis on Earnings Call Transcript
+# CallSense
 
-Earning call is a conference call between executives and major investors where they discuss their quarterly financial performance and future outlook. It is usually held quarterly by most publicly traded corporations. These calls provide valuable insight to investors and analysts to make trading decisions. However, listening an earnings call is a time consuming process. What if the overall sentiment score of an earnings call could be determined in order to get an idea of the company's future outlook?
 
-This article will show the sentiment analysis on the earnings call, visualize the points for analysts or investors to make trading decisions.
+ "Imagine a world where you could listen to your customers' thoughts during every phone call they make to your business. What if you could truly understand their emotions, concerns, and needs in real time? Today, I'm excited to introduce a groundbreaking solution that does just that."
+
+In today's fast-paced business environment, understanding your customers is more critical than ever. The challenge lies in deciphering the unspoken emotions and sentiments behind their words during phone interactions. It's not just about what they say; it's about how they feel.
+
+Our solution involves developing an advanced sentiment analysis system tailored to analyze real-time sentiments during inbound calls. It seamlessly integrates into existing call center infrastructures, ensuring minimal disruption while delivering substantial benefits.
+
 
 ## Getting Transcripts Data
 
