@@ -6,7 +6,7 @@ Our solution involves developing an advanced sentiment analysis system tailored 
 
 ## Getting Transcripts Data
 
-To get data for sentiment analysis, I manually scraped earnings call transcripts from [here](https://www.rev.com/blog/transcripts/alphabet-google-q3-2021-earnings-call-transcript-goog-googl). You can also subscribe to APIS that give call transcripts and use that data to apply sentiment analysis.
+To get data for sentiment analysis, I manually scraped earnings call transcripts from [here](https://www.rev.com/blog/transcripts/alphabet-google-q3-2021-earnings-call-transcript-goog-googl). Converted this audio into texts using APIs and then preprocessed the text for further analysis.
 
 ## Load Data
 
